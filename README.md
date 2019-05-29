@@ -7,4 +7,18 @@ For more details on each project, check the project's directory.
 
 ## RecordApp
 
+<img src="https://i.imgur.com/CKGD9ED.png" width="150" height="300">
 
+
+## MEME 1.0
+
+<img src="https://i.imgur.com/1PcvBPw.png" width="200" height="300">
+
+## MEME 2.0
+
+
+<img src="https://i.imgur.com/oVEZuqP.png" width="200" height="400">
+
+## OnTheMap
+
+# SOON
