@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../MEME_2.00/Controller/MemeTableViewCell.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../MemeTableViewCell.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../../IOS/project/MEME1.0/MEME1.0/Base.lproj/Main.storyboard">
+   </FileRef>
+   <FileRef
+      location = "group:../../IOS/project">
+   </FileRef>
+   <FileRef
+      location = "self:MEME_2.00.xcodeproj">
+   </FileRef>
+</Workspace>
