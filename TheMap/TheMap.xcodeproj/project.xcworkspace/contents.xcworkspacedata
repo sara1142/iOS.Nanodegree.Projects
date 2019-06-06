@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:../TheMap/Assets.xcassets"
+      name = "Assets.xcassets">
+      <Group
+         location = "group:icon_mapview-deselected.imageset"
+         name = "icon_mapview-deselected.imageset">
+         <FileRef
+            location = "group:icon_mapview-deselected.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:icon_mapview-deselected@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon_mapview-deselected@3x.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:icon_listview-deselected.imageset"
+         name = "icon_listview-deselected.imageset">
+         <FileRef
+            location = "group:icon_listview-deselected@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon_listview-deselected@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:icon_listview-deselected.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:icon_addpin.imageset"
+         name = "icon_addpin.imageset">
+         <FileRef
+            location = "group:icon_addpin@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon_addpin@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:icon_addpin.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:AppIcon.appiconset"
+         name = "AppIcon.appiconset">
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:icon_pin.imageset"
+         name = "icon_pin.imageset">
+         <FileRef
+            location = "group:icon_pin@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon_pin@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:icon_pin.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:loading.imageset"
+         name = "loading.imageset">
+         <FileRef
+            location = "group:loading@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:loading@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:loading.png">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Contents.json">
+      </FileRef>
+      <Group
+         location = "group:logo-u.imageset"
+         name = "logo-u.imageset">
+         <FileRef
+            location = "group:logo-u@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:logo-u@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:logo-u.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:icon_listview-selected.imageset"
+         name = "icon_listview-selected.imageset">
+         <FileRef
+            location = "group:icon_listview-selected.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon_listview-selected@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon_listview-selected@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:icon_back-arrow.imageset"
+         name = "icon_back-arrow.imageset">
+         <FileRef
+            location = "group:icon_back-arrow@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon_back-arrow@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon_back-arrow.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:icon_world.imageset"
+         name = "icon_world.imageset">
+         <FileRef
+            location = "group:icon_world@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon_world@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:icon_world.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:icon_refresh.imageset"
+         name = "icon_refresh.imageset">
+         <FileRef
+            location = "group:icon_refresh@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon_refresh@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon_refresh.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:icon_mapview-selected.imageset"
+         name = "icon_mapview-selected.imageset">
+         <FileRef
+            location = "group:icon_mapview-selected@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon_mapview-selected@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:icon_mapview-selected.png">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
