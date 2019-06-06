@@ -29,7 +29,7 @@ Meme creator app on iOS platform.
 
 ## OnTheMap
 
-An iOS application to find Udacity Students studying across the world.
+ iOS application to find Udacity Students studying across the world.
 
 
 <img src="https://i.imgur.com/GU8osQm.png" width="200" height="400">    
@@ -37,4 +37,5 @@ An iOS application to find Udacity Students studying across the world.
 
 
 ## Virtual Tourist
+ iOS application to download and view photos specific to selected locations.
 ### Soon
